@@ -1,1 +1,3 @@
-# new 2d open world game tech demo
+# A parkour game made in godot engine.
+
+this is a tech demo now!
